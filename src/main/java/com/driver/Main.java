@@ -15,7 +15,7 @@ public class Main {
         System.out.println("Product of two doubles: " + result3);
     }
 
-    static class Product {
+    public static class Product {
         public int product(int x, int y) {
             return x * y;
         }
